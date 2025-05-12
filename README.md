@@ -1,6 +1,6 @@
 # 💼 Albina Demaj – Full Stack Web Developer Portfolio
 
-[🔗 Live Portfolio Website](https://clever-alfajores-630dbe.netlify.app/)
+[🔗 Live Portfolio Website](https://timely-pavlova-11f36d.netlify.app/)
 
 This is my personal developer portfolio built with **React.js** and **Tailwind CSS**.  
 It highlights my background, skills, certifications, and showcases a selection of real-world projects across frontend and backend technologies.
